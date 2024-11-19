@@ -9,20 +9,20 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container">
-            <a class="navbar-brand" href="<?= base_url() ?>">Tarefas Domésticas</a>
+            <a class="navbar-brand" href="<?= site_url() ?>">Tarefas Domésticas</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('tarefas') ?>">Listar Tarefas</a>
+                        <a class="nav-link" href="<?= site_url('tarefas') ?>">Listar Tarefas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('tarefas/new') ?>">Nova Tarefa</a>
+                        <a class="nav-link" href="<?= site_url('tarefas/new') ?>">Nova Tarefa</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('tarefas/cronograma') ?>">Cronograma</a>
+                        <a class="nav-link" href="<?= site_url('tarefas/cronograma') ?>">Cronograma</a>
                     </li>
                 </ul>
             </div>

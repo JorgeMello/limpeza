@@ -4,7 +4,7 @@
 <h1 class="mb-4">Lista de Tarefas</h1>
 
 <div class="mb-3">
-    <a href="<?= base_url('tarefas/new') ?>" class="btn btn-primary">Nova Tarefa</a>
+    <a href="<?= site_url('tarefas/new') ?>" class="btn btn-primary">Nova Tarefa</a>
 </div>
 
 <div class="table-responsive">
@@ -32,8 +32,8 @@
                     </span>
                 </td>
                 <td>
-                    <a href="<?= base_url('tarefas/edit/' . $tarefa['id']) ?>" class="btn btn-sm btn-info">Editar</a>
-                    <form action="<?= base_url('tarefas/delete/' . $tarefa['id']) ?>" method="post" style="display: inline;">
+                    <a href="<?= site_url('tarefas/edit/' . $tarefa['id']) ?>" class="btn btn-sm btn-info">Editar</a>
+                    <form action="<?= site_url('tarefas/delete/' . $tarefa['id']) ?>" method="post" style="display: inline;">
                         <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Tem certeza que deseja excluir esta tarefa?')">Excluir</button>
                     </form>
                 </td>
