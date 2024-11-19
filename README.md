@@ -1,4 +1,5 @@
-# Limpeza de Casa - Tarefas -> AUTOR: https://www.instagram.com/iasindico/
+# Limpeza de Casa - Tarefas 
+-> AUTOR: https://www.instagram.com/iasindico/
 
 ## CleanMaster - Organizador de Limpeza Doméstica
 
