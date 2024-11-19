@@ -27,10 +27,13 @@ O CleanMaster é um aplicativo inovador projetado para ajudar usuários a organi
 
 
 ## Tecnologias Utilizadas
-Frontend: HTML, CSS, JavaScript ou outra tecnologia de desenvolvimento de aplicativos móveis.
-Backend: CodeIgniter 4 (opcional para funcionalidades adicionais).
-Banco de Dados: MySQL para armazenar dados de usuários e histórico de tarefas.
-Notificações: Push Notifications para lembretes de tarefas.
+**Frontend**: HTML, CSS, JavaScript ou outra tecnologia de desenvolvimento de aplicativos móveis.
+
+**Backend**: CodeIgniter 4 (opcional para funcionalidades adicionais).
+
+**Banco de Dados**: MySQL para armazenar dados de usuários e histórico de tarefas.
+
+**Notificações**: Push Notifications para lembretes de tarefas.
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
