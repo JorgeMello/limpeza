@@ -23,7 +23,7 @@ O CleanMaster é um aplicativo inovador projetado para ajudar usuários a organi
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seuusuario/cleanmaster.git
+   git clone https://github.com/JorgeMello/limpeza.git
 
 
 ## Tecnologias Utilizadas
